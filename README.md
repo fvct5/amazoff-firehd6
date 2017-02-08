@@ -1,4 +1,4 @@
 # amazoff
-Install Google Now Launcher and remove the Amazon bloatware from your Fire HD 6.
+This batch script will install the Google Now Launcher and remove the Amazon bloatware from your Fire HD 6.
 
-Please make sure the ADB drivers are installed on your PC and the ADB Debugging is turned on before running this script.
+NOTE: You must first install ADB drivers on the PC, and enable ADB Debugging on the device.
